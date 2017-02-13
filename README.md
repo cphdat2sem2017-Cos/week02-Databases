@@ -5,6 +5,12 @@ We will look at different types of data models and how logical data models are t
 
 ###Readings/Tutorials: 
 https://dev.mysql.com/doc/workbench/en/wb-data-modeling.html
+https://www.lynda.com/FileMaker-Pro-tutorials/Understanding-relationship-types/161168/172251-4.html - please be aware that they we use crow feet to represent relationship. 
+https://www.lynda.com/FileMaker-Pro-tutorials/Diagramming-relationships-entity-relationship-ER-diagrams/161168/172252-4.html - how you can change a relationship from many to many to one to many (Join Table)
+https://www.youtube.com/watch?v=-fQ-bRllhXc&t=705s - Entity relationship traing video
+https://www.lynda.com/FileMaker-Pro-tutorials/Understanding-key-fields/161168/172253-4.html - Primary and foreign key
+Tutorial - Modeling Relationships in a MySQL ERD
+
 
 ##Day 2 (Tuesday): SQL Queries 
 We will recap the SQL select statement to query a database. We will focus on multi-table queries (joins) and SQL aggregate functions (especially grouping of results) 
@@ -17,6 +23,7 @@ http://www.w3schools.com/sql/default.asp
 http://www.mysqltutorial.org/basic-mysql-tutorial.aspx
 
 Wikipedia also has good examples for most SQL commands
+https://www.lynda.com/MySQL-tutorials/MySQL-Essential-Training/139986-2.html - Ignore the section Installing and Configuring the Test Environment
 
 ###Readings:  
 
