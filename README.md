@@ -9,6 +9,7 @@ https://www.lynda.com/FileMaker-Pro-tutorials/Understanding-relationship-types/1
 https://www.lynda.com/FileMaker-Pro-tutorials/Diagramming-relationships-entity-relationship-ER-diagrams/161168/172252-4.html - how you can change a relationship from many to many to one to many (Join Table)
 https://www.youtube.com/watch?v=-fQ-bRllhXc&t=705s - Entity relationship traing video
 https://www.lynda.com/FileMaker-Pro-tutorials/Understanding-key-fields/161168/172253-4.html - Primary and foreign key
+https://www.lynda.com/Programming-Foundations-tutorials/Welcome/412845/438411-4.html -good overview of most of the topics in Database
 Tutorial - Modeling Relationships in a MySQL ERD
 
 
